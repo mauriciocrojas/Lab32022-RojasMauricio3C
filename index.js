@@ -287,7 +287,7 @@ function createPerson() {
         return new Persona(tbId.value,tbNombre.value, tbApellido.value, tbEdad.value);
 }
 
-//ABM - OPERACIONES
+//BtnAlta
 btnAlta.addEventListener("click", ()=>{
         let vacio = [{"actualizado":"Actualizado"}]
 
